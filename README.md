@@ -7,4 +7,4 @@
 4) Download and install the latest version of VirtualBox
 
 5) Go to https://codelabs.developers.google.com/codelabs/cloud-dataflow-nyc-taxi-tycoon/#0
-6) Follow the instructions in the CodeLab.
+6) Follow the instructions in the CodeLab. ( Skip the '2. Setup and Requirements' section )
